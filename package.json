@@ -1,0 +1,23 @@
+{
+  "name": "delegation-practice-main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx live-server client --host=localhost --port=5500 --no-browser"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ovelute53/delegation-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ovelute53/delegation-practice/issues"
+  },
+  "homepage": "https://github.com/ovelute53/delegation-practice#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
